@@ -37,7 +37,7 @@ function App() {
 
   const images = [Example1, Example2, Example3, Example4, Example5, Example6];
 
-  const apiUrl = "https://aishwaryac26-unitable-api.hf.space/predict";
+  const apiUrl = "https://anonymous72635-unitable-api.hf.space/predict";
 
   const runUnitableModel = async () => {
     if (!selectedExample) {
